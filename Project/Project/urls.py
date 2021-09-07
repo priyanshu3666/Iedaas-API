@@ -33,7 +33,7 @@ urlpatterns = [
    path('teams/royal-challengers-bangalore/', views.RoyalChallengersBangalore.as_view()),
    path('teams/kings-xi-punjab/', views.KingsXIPunjab.as_view()),
    path('teams/kolkata-knight-riders/', views.KolkataKnightRiders.as_view()),
-   path('teams/mumbai-indians/', views.MumbaiIndians.as_view())
+   path('teams/mumbai-indians/', views.MumbaiIndians.as_view()),
 
    
 
